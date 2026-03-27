@@ -77,3 +77,7 @@ Nikhil Jangir
 📜 License
 
 This project is for educational purposes and can be modified or extended.
+
+
+---
+> 🛡️ **Automated Security Scan:** 27-March-2026 | **Status:** Warning: 1 potential issues detected ⚠️
