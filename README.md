@@ -20,25 +20,7 @@ State Management: React Context API
 Storage: Local Storage
 AI Service: Custom AI Analysis (JavaScript)
 📂 Project Structure
-Mood_journal_project-main/
-│── src/
-│   ├── components/
-│   │   ├── auth/            # Authentication pages
-│   │   ├── dashboard/       # Dashboard and analytics
-│   │   ├── journal/         # Journal entry management
-│   │   ├── layout/          # Header and layout components
-│   │   └── ui/              # Reusable UI components
-│   ├── context/             # Auth & Journal context
-│   ├── services/            # AI analysis logic
-│   ├── utils/               # Helper functions & storage
-│   ├── constants/           # Mood definitions
-│   ├── App.jsx              # Main App component
-│   └── main.jsx             # Entry point
-│
-├── index.html
-├── package.json
-├── tailwind.config.js
-├── vite.config.ts
+
 ⚙️ Installation & Setup
 Clone the repository
 git clone https://github.com/your-username/mood-journal.git
